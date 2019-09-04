@@ -64,8 +64,6 @@ def check_new_item():
     f.close()
 
 
-
-
 if __name__ == "__main__":
     while True:
         check_new_item()
